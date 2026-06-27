@@ -184,5 +184,5 @@ English Translation:
 
 export const expressingOpinions = parseCards(raw, {
   category: 'Expressing Opinions',
-  startId: 21,
+  startId: 101,
 });
